@@ -1,0 +1,40 @@
+{
+  "bookings": [
+    
+  ],
+  "Foods": [
+    {
+      "id": "f1",
+      "food": "Margherita Pizza",
+      "prize": 200,
+      "img": "pizza.jpg"
+    },
+    {
+      "id": "f2",
+      "food": "Cheese Sandwich",
+      "prize": 120,
+      "img": "chees-sandwich.jpg"
+    },
+    {
+      "id": "f3",
+      "food": "Momos",
+      "prize": 90,
+      "img": "momos.jpg"
+    },
+    {
+      "id": "f4",
+      "food": "Vada Pav",
+      "prize": 25,
+      "img": "vadapav.jpg"
+    },
+    {
+      "id": "f5",
+      "food": "Chainees",
+      "prize": 80,
+      "img": "chainees.jpg"
+    }
+  ],
+  "Order": [
+    
+  ]
+}
